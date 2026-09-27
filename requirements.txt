@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+jupyterlab
+python-dateutil
+pytz
+requests
+flask
+ipykernel
